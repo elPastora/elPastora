@@ -5,9 +5,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/elpastora)
 [![GitHub followers](https://img.shields.io/github/followers/elPastora?style=social)](https://github.com/elPastora)
 
-## Sobre mi
-
-- ⭐ Github Star ⭐ 
+## Sobre mi 
 -  Scrum Master
 <br>
 
