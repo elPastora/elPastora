@@ -9,13 +9,13 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- ![image](https://github.com/elPastora/elPastora/assets/165938006/ce720e01-0781-4097-808f-91821a62f2ca) Scrum Master
+-  Scrum Master
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/elPastora">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elPastora&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elPastora&layout=compact&langs_count=8&theme=algolia"/>
 </a>
